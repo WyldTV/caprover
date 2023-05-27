@@ -1,5 +1,23 @@
 <div align="center">
-<h1>CapRover</h1>
+  <h1>CapRover</h1>
+  <h3>The Wyld Edition</h3>
+</div>
+
+Don't mind me, just got a few ideas and want to see if they fly. Am hopeful to extend the environment with:
+
+- Basic Graphing
+- Swarm Scaling/Control
+- Logging View
+- LLDAP (maybe?)
+- Template Creator
+- Notepad
+
+Mainly, this project is a combination of scratching a few itches I have, as well as skilling up as I go along.
+
+Do check out the OG Project, detailed below.
+
+<div align="center">
+  <h1>Forked from CapRover</h1>
 <a href="https://hub.docker.com/r/caprover/caprover/" target="_blank" title="Docker Pulls">
 <img src="https://img.shields.io/docker/pulls/caprover/caprover.svg" alt="Docker Pulls"/>
 </a>
